@@ -1,0 +1,4 @@
+{
+  "name": "This is the name-tests",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11"
+}
