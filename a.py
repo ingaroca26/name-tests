@@ -1,2 +1,2 @@
-a: str = ''
+a: str = 'linea'
 print(a)
