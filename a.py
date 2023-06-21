@@ -1,2 +1,2 @@
-a: str = ''
+a: str = 'h'
 print(a)
